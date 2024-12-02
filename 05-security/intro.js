@@ -22,4 +22,4 @@
 // - now you can go the another database, create a user there and set its relative roles("readWrite", "dbAdmin", "read" etc.).
 
 // SSL SECURITY
-// should search how in future.
+// can be taken care of by Mongo Atlas.
